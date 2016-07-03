@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tourist app</string>
+    <string name="title_activity_choosen_image">choosenImage</string>
+    <string name="univerza_name">UNIVERSITY OF LJUBLJANA</string>
+    <string name="univerza_desc">The University of Ljubljana was founded in 1919 on the foundations of a long-established pedagogical tradition.</string>
+    <string name="zvezda_name">KONGRESNI TRG SQUARE</string>
+    <string name="zvezda_desc">The site of the present Kongresni trg square was occupied by a small square already back in the Baroque period.
+        The original square was thoroughly reconstructed for the 1821 Congress of the Holy Alliance and named after it.</string>
+    <string name="vodnik_name">VODNIK MONUMENT</string>
+    <string name="vodnik_desc">Valentin Vodnik Monument, is dedicated to the Carniolan priest, poet and journalist Valentin Vodnik (1758−1819).
+        It stands at Vodnik Square (Vodnikov trg) in Ljubljana, the capital of Slovenia, in the immediate vicinity of the Ljubljana Central Market.</string>
+    <string name="grad_name">LJUBLJANA CASTLE</string>
+    <string name="grad_desc">Ljubljana Castle, standing on a hill above the city for about 900 years, is Ljubljana\'s main attraction.
+        The castle\'s Outlook Tower and ramparts offer some of the most beautiful views of the city, while the castle
+        houses a museum exhibition on Slovenian history, a puppet museum, and a number of historical rooms such as the Chapel of St George,
+        the Prison, and a video presentation room called Virtual Castle.</string>
+    <string name="zmajski_name">DRAGON BRIDGE</string>
+    <string name="zmajski_desc">The Dragon Bridge, adorned with famous dragon statues, appears in the most recognizable images of Ljubljana.
+        If you haven\'t been photographed next to a Dragon Bridge dragon, you can hardly claim that you have visited Ljubljana.
+        The four dragon statues, which look slightly terrifying and almost real (if, of course, you believe that dragons might be real),
+        are a masterpiece which has been exciting imagination since the bridge was built.</string>
+    <string name="nuk_name">NATIONAL AND UNIVERSITY LIBRARY</string>
+    <string name="nuk_desc">The National and University Library, whose archives contain, among other things, a rich collection of medieval manuscripts,
+        incunabula and Renaissance prints, was built between 1936 and 1941 to designs by Jože Plečnik.</string>
+    <string name="presern_name">PREŠERNOV TRG SQUARE</string>
+    <string name="presern_desc">The Prešernov trg square developed from a road junction in front of one of the city gates leading to medieval Ljubljana.
+        Next to the junction, a Franciscan church of the Annunciation was built in the 17th century,
+        but the junction was turned into a square and paved only after the city walls were pulled down in the middle of the 19th century.</string>
+    <string name="mestna_name">TOWN HALL</string>
+    <string name="mestna_desc">Ljubljana\'s Town Hall (locally referred to as Mestna hiša, Magistrat or Rotovž), is used as the seat of the Municipality of Ljubljana.
+        It was built in the late 15th century by the master builder Peter Bezlaj. It assumed its present appearance between 1717 and 1719, when an
+        annexe designed by Carlo Martinuzzi was added to it by the master builder Gregor Maček Snr. Later the building was alterated several times,
+        the most thoroughly by the architect Svetozar Križaj in 1963.</string>
+    <string name="franciskanska_name">FRANCISCAN CHURCH</string>
+    <string name="franciskanska_desc">The Franciscan Monastery and the Church of the Annunciation are the two buildings contributing most significantly to the
+        appearance of the Prešernov trg square, the central square in Ljubljana.
+        Until the end of the 18th century, the monastery was the home of Augustine monks.</string>
+    <string name="robbov_name">ROBBA FOUNTAIN</string>
+    <string name="robbov_desc">The Robba Fountain, one of Ljubljana\'s best known Baroque monuments, also known as The Fountain of Three Carniolan Rivers," +
+        " stands at the edge of the Mestni trg square. It was created between 1743 and 1751</string>
+</resources>
